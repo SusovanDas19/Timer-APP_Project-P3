@@ -12,4 +12,8 @@ A simple timer application built with React and Vite. This app allows users to s
 [![My Skills](https://skillicons.dev/icons?i=react,vite,html,css,javascript&perline=6&theme=dark)](https://skillicons.dev)
 
 ## Preview 👀
-![Timer App]("Screenshot 2024-10-21 223204.png")
+<div style="display: flex; gap: 50px;">
+  <img src="img2.png" alt="Timer App 2" width="45%" style="flex: 1;"/>
+  <img src="img1.png" alt="Timer App 1" width="45%" style="flex: 1;"/>
+</div>
+
