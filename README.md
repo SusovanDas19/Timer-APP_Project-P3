@@ -1,12 +1,15 @@
-<<<<<<< HEAD
-# React + Vite
+# Timer App ⏳
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple timer application built with React and Vite. This app allows users to set a timer using hours, minutes, and seconds, with features to start, pause, reset, and display the remaining time.
 
-Currently, two official plugins are available:
+## Features 🌟
+- ⏰ Set hours, minutes, and seconds for the timer.
+- ▶️ Start the timer and see it count down.
+- ⏸️ Pause and resume the timer.
+- 🔄 Reset the timer to zero.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
-# Timer-App_Project-P3
->>>>>>> aa849237e1db222e62e7b12fa9b9bdf55a04a937
+## Technologies Used 🛠️
+[![My Skills](https://skillicons.dev/icons?i=react,vite,html,css,javascript&perline=6&theme=dark)](https://skillicons.dev)
+
+## Preview 👀
+![Timer App]("Screenshot 2024-10-21 223204.png")
